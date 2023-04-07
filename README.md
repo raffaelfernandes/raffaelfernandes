@@ -1,5 +1,5 @@
 <div>
-    <img src="https://i.imgur.com/kACIfl8.jpg" style="width: 60%"></img>
+    <img src="https://i.imgur.com/kACIfl8.jpg" style="width: 70%"></img>
 </div>
 <h3>🌐 Olá, Mundo! Eu sou o Raffael Fernandes. ✌️</h3>
 <p>Seja muito bem vindo(a) ao perfil no GitHub! Descubra um pouco sobre mim:</p>
@@ -13,7 +13,7 @@
 </ul>
 <br>
 <div>
-    <img src="https://i.imgur.com/y6TYpqZ.jpg" style="width: 60%"></img>
+    <img src="https://i.imgur.com/y6TYpqZ.jpg" style="width: 70%"></img>
 </div>
 <p>Você pode me conhecer, interagir ou entrar em contato comigo através das seguintes redes sociais:</p>
 
@@ -27,7 +27,7 @@
 
 
 <div>
-    <img src="https://i.imgur.com/crE2bue.jpg" style="width: 60%"></img>
+    <img src="https://i.imgur.com/crE2bue.jpg" style="width: 70%"></img>
 </div>
 <p>Abaixo, você pode verificar algumas das minhas estatísticas mais recentes do GitHub:</p>
 
