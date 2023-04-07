@@ -22,7 +22,7 @@
 <a href='mailto:raffael13fernandes@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=GMAIL&logoColor=00ffff&labelColor=FF52FF&color=DB2505'/></a>
 <a href='https://br.linkedin.com/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LINKEDIN-100000?style=for-the-badge&logo=LINKEDIN&logoColor=00ffff&labelColor=FF52FF&color=0658B1'/></a>
 
-<p>(Obs: Não tenha vergonha de nada, eu sou a pessoa mais receptiva que você vai conhecer em sua vida! ;D)</p>
+<p>(Obs: Não tenha vergonha de nada, eu sou uma das pessoas mais receptivas que você vai conhecer em sua vida! ;D)</p>
 <br>
 
 
