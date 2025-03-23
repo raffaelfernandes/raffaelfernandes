@@ -4,7 +4,7 @@
 <h3>🌐 Olá, Mundo! Eu sou o Raffael Fernandes. ✌️</h3>
 <p>Seja muito bem vindo(a) ao perfil no GitHub! Descubra um pouco sobre mim:</p>
 <ul>
-    <li>20 anos.</li>
+    <li>21 anos.</li>
     <li>Nascido e residente em Teresina - Piauí</li>
     <li>Graduando em Ciência da Computação - UFPI.</li>
     <li>Imenso interesse por tecnologia, ciência, inovação, acessibilidade e música.</li>
