@@ -4,7 +4,7 @@
 <h3>🌐 Olá, Mundo! Eu sou o Raffael Fernandes. ✌️</h3>
 <p>Seja muito bem vindo(a) ao perfil no GitHub! Descubra um pouco sobre mim:</p>
 <ul>
-    <li>21 anos.</li>
+    <li>22 anos.</li>
     <li>Nascido e residente em Teresina - Piauí</li>
     <li>Graduando em Ciência da Computação - UFPI.</li>
     <li>Imenso interesse por tecnologia, ciência, inovação, acessibilidade e música.</li>
@@ -18,7 +18,6 @@
 <p>Você pode me conhecer, interagir ou entrar em contato comigo através das seguintes redes sociais:</p>
 
 <a href='https://www.instagram.com/raffael13fe/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/INSTAGRAM-100000?style=for-the-badge&logo=INSTAGRAM&logoColor=00ffff&labelColor=FF52FF&color=FF2768'/></a>
-<a href='https://twitter.com/ccraffael' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/TWITTER-100000?style=for-the-badge&logo=Twitter&logoColor=00ffff&labelColor=FF52FF&color=4DB1F4'/></a>
 <a href='mailto:raffael13fernandes@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=GMAIL&logoColor=00ffff&labelColor=FF52FF&color=DB2505'/></a>
 <a href='https://br.linkedin.com/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LINKEDIN-100000?style=for-the-badge&logo=LINKEDIN&logoColor=00ffff&labelColor=FF52FF&color=0658B1'/></a>
 
